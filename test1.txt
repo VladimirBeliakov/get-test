@@ -1,0 +1,3 @@
+for merge squash
+
+for another commit
