@@ -1,3 +1,5 @@
 for merge squash
 
 for another commit
+
+very new first line
